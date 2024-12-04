@@ -51,7 +51,7 @@ This project focuses on analyzing food prices from various grocery stores, lever
 - **Programming Language**: Java
 - **Web Scraping**: Selenium
 - **Data Storage**: JSON
-- **Algorithms**: Trie, AVL Trees, Page Ranking, Regex
+- **Algorithms**: Trie, AVL Trees, Regex
 - **Other Tools**: TreeMap, HashMap for dynamic data management
 
 ## Team Contributions
