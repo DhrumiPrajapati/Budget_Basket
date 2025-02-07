@@ -1,4 +1,4 @@
-# Food Price Analysis Website
+# Budget Basket Application
 
 This project focuses on analyzing food prices from various grocery stores, leveraging advanced algorithms, data structures, and web scraping techniques to create an efficient and user-friendly platform.
 
